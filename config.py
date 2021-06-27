@@ -32,7 +32,7 @@
 # 青海 63
 # 宁夏 64
 # 新疆 65
-PROVINCE_ID = 65
+PROVINCE_ID = 33
 
 # 理科 1
 # 文科 2
@@ -40,4 +40,4 @@ SUBJECT_ID = 2
 
 # [2013, 2018]
 YEAR_BEGIN = 2017
-YEAR_TO = 2018
+YEAR_TO = 2020
